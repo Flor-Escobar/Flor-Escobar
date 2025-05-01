@@ -1,6 +1,6 @@
 ## 👨‍💻 Flor Escobar
 
-¡Hola! Soy estudiante de "Desarrollo Web" con una fuerte motivación por el desarrollo de software y la resolución de problemas algorítmicos.
+¡Hola! Soy estudiante de "Desarrollo Web". Actualmente estoy enfocándome en fortalecer mi lógica de programación y dominar herramientas clave para el desarrollo y análisis computacional.
 
 ### 🛠️ Actualmente me encuentro profundizando mis conocimientos en:
 
